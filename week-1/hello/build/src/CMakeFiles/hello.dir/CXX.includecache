@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenyu/Documents/SLAM/第一讲：SLAM概述与预备知识/hw/cmake/src/hello.cpp
+hello.h
+/home/chenyu/Documents/SLAM/第一讲：SLAM概述与预备知识/hw/cmake/src/hello.h
+iostream
+-
+
+/home/chenyu/Documents/SLAM/第一讲：SLAM概述与预备知识/hw/cmake/src/hello.h
+

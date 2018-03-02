@@ -60,7 +60,7 @@ chmod +rx a.sh
 ## 第５题
 １．
 
-![](file:////home/chenyu/Documents/SLAM/第一讲：SLAM概述与预备知识/orb_slam_dl.png)
+![](https://github.com/AIBluefisher/DeepBlue_SLAM/blob/master/week-1/orb_slam_dl.png)
 
 ２.
 
@@ -73,7 +73,7 @@ chmod +rx a.sh
 ## 第６题
 
 1.
-![](file:////home/chenyu/Documents/SLAM/第一讲：SLAM概述与预备知识/orb_slam_compile.png)
+![](https://github.com/AIBluefisher/DeepBlue_SLAM/blob/master/week-1/orb_slam_compile.png)
 
 
 2.
@@ -96,6 +96,7 @@ target_link_libraries(myvideo ${PROJECT_NAME})
 
 截图如图所示：
 
-![](file:////home/chenyu/Documents/SLAM/第一讲：SLAM概述与预备知识/myslam.png)
+![](https://github.com/AIBluefisher/DeepBlue_SLAM/blob/master/week-1/myslam.png)
 
 **体会:** 从运行情况来看，ORB-SLAM2用于做重建的话，感觉点还是太稀疏了；如果精度能够达到要求的话，感觉上是可以用于定位等应用的．
+
